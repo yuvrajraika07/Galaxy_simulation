@@ -148,4 +148,4 @@ If you just want to test the program without editing the source code, go see the
 
 # 🙏 Credits
 
-* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
+* [**Yuvraj raika **](https://github.com/yuvrajraika07) : Creator of the project.
